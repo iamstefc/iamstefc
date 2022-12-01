@@ -21,7 +21,7 @@
      - :keyboard: Developing scripts in Python and SQL
      - :chart_with_upwards_trend: Creating visuals with Power BI and Mode
      - :cloud: Exploring cloud services with AWS
-- :people_holding_hands: I've attended Operational Analytics Community Days and Coalesce '22
+- :people_holding_hands: I attended Operational Analytics Community Days and Coalesce '22
 - :man_teacher: I enjoy learning new things every day and sharing my knowledge
 - :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
 </div>
