@@ -12,21 +12,25 @@
 </p>
 <img align="right" alt="My Data Space" width="400" src="https://imgur.com/Yzm0hLF.png">
 
-#### About Me
+<h5 align="left">About Me</h5>
+
 - :classical_building: Syracuse University '19
-- :seedling: I started my data analytics career 
-- :speedboat: building insightful dashboards and data infrastructure
-- :man_technologist: I'm always curious to continue learning and trying out new things!
-- :star2: On my free time, I enjoy jogging, relaxing outside, and watching sports
+- :man_technologist: I'm currently working on building data infrustructure and dashboards
+     - :desktop_computer: Designing models in dbt
+     - :keyboard: Developing scripts in Python and SQL
+     - :chart_with_upwards_trend: Creating visuals with Power BI and Mode
+- :people_holding_hands: I've attended Operational Analytics Community Days and Coalesce '22
+- :man_teacher: I enjoy learning new things every day and sharing my knowledge
+- :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
 
-#### my workspace
-- :orange_book: This is my personal GitHub portfolio. I have created other profiles, but those are exclusively for work or school.
-- 
+:construction: Section in maintenance, take a look at LinkedIn Banner for tools used!
 
-#### reach me
-- 
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+
+<h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/cyImGhX.png" alt="airflow" width="40" height="40"/> </a> </p>
 
 
