@@ -2,9 +2,14 @@
      just joking nothing spooky about this README! 
      the iamstefc/iamstefc repo is dedicate solely for the purpose of a quick intro and what I've been working on lately - Enjoy! -->
      
-![Stefano GitHub Banner](https://imgur.com/iUyJLk0.png)
-<h1 align="center">👋 hey, welcome to my github</h1>
-<h6 align="center">data ethusiast, analytical thinker</h6>
+![Stefano GitHub Banner](https://imgur.com/deYIzyW.png)
+<h6 align="center">Connect with me</h6>
+<p align="center">
+<a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
+<a href="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" target="blank"><img align="center" src="https://imgur.com/tJArGEj.png" alt="wordpress" height="40" width="40" /></a>
+</p>
 <img align="right" alt="My Data Space" width="400" src="https://imgur.com/Yzm0hLF.png">
 
 #### About Me
