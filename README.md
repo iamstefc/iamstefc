@@ -8,7 +8,6 @@
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
-<a href="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" target="blank"><img align="center" src="https://imgur.com/tJArGEj.png" alt="wordpress" height="40" width="40" /></a>
 </p>
 <div style="display:flex">
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/Yzm0hLF.png" />
