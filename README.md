@@ -3,7 +3,7 @@
      the iamstefc/iamstefc repo is dedicate solely for the purpose of a quick intro and what I've been working on lately - Enjoy! -->
      
 ![Stefano GitHub Banner](https://imgur.com/deYIzyW.png)
-<h3 align="center">Connect with me</h3>
+<h6 align="center">Connect with me</h6>
 <p align="center">
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
@@ -13,7 +13,7 @@
 <div style="display:flex">
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/Yzm0hLF.png" />
  <br>
-<h5 align="left">About Me</h5>
+<h3 align="left">About Me</h3>
      
 - :classical_building: Syracuse University '19
 - :man_technologist: I'm currently working on building data infrustructure and dashboards
