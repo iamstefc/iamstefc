@@ -3,11 +3,12 @@
      the iamstefc/iamstefc repo is dedicate solely for the purpose of a quick intro and what I've been working on lately - Enjoy! -->
      
 ![Stefano GitHub Banner](https://imgur.com/deYIzyW.png)
-<h6 align="center">Connect with me</h6>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
+<a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg" target="blank"><img align="center" src="https://imgur.com/Mv6qyn0.png" alt="medium" height="40" width="40" /></a>   
 </p>
 <div style="display:flex">
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/Yzm0hLF.png" />
@@ -25,7 +26,7 @@
 - :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
 </div>
 <br>
-<h5 align="left">Languages & Tools</h5>
+<h3 align="left">Languages & Tools</h3>
 <p align="left"> 
      <!-- Programming languages used in a personal or professional capacity -->
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tykt4JU.png" alt="postgresql" width="40" height="40"/> </a> 
