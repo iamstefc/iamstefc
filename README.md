@@ -8,7 +8,7 @@
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
-<a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg" target="blank"><img align="center" src="https://imgur.com/vY5s8R3.png" alt="notion" height="40" width="40" /></a>   
+<a href="https://datawithstefano.notion.site/Hi-I-m-Stefano-f2c9dfef355d4a719e29d50ee01f4c91" target="blank"><img align="center" src="https://imgur.com/vY5s8R3.png" alt="notion" height="40" width="40" /></a>   
 </p>
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/Yzm0hLF.png" />
 <h3 align="left">About Me</h3>
@@ -24,7 +24,7 @@
 - :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
 
 <h3 align="left">Connect with Me</h3>
-<p>Contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see what I'm reading on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my latest work on <a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg"><i>Notion</i></a></p>
+<p>Contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see what I'm reading on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my latest work on <a href="https://datawithstefano.notion.site/Hi-I-m-Stefano-f2c9dfef355d4a719e29d50ee01f4c91"><i>Notion</i></a></p>
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
      <!-- Programming languages used in a personal or professional capacity -->
