@@ -8,11 +8,9 @@
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
-<a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg" target="blank"><img align="center" src="https://imgur.com/Mv6qyn0.png" alt="medium" height="40" width="40" /></a>   
+<a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg" target="blank"><img align="center" src="https://imgur.com/vY5s8R3.png" alt="notion" height="40" width="40" /></a>   
 </p>
-<div style="display:flex">
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/Yzm0hLF.png" />
- <br>
 <h3 align="left">About Me</h3>
      
 - :classical_building: Syracuse University '19
@@ -24,17 +22,18 @@
 - :people_holding_hands: I attended Operational Analytics Community Days and Coalesce '22
 - :man_teacher: I enjoy learning new things every day and sharing my knowledge
 - :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
-</div>
-<br>
+
+<h3 align="left">Connect with Me</h3>
+<p>Contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see what I'm reading on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my latest work on <a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg"><i>Notion</i></a></p>
 <h3 align="left">Languages & Tools</h3>
-<p align="left"> 
+<p align="left">
      <!-- Programming languages used in a personal or professional capacity -->
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tykt4JU.png" alt="postgresql" width="40" height="40"/> </a> 
      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/ghMZSWx.png" alt="python" width="40" height="40"/> </a> 
      <a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/xXPHkz0.png" alt="sparksql" width="70" height="40"/> </a> 
      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qgcdK90.png" alt="sqlserver" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/a3sFnth.png" alt="mysql" width="40" height="40"/> </a> 
-      <!-- Cloud computing services used in a personal or professional capacity -->
+     <!-- Cloud computing services used in a personal or professional capacity -->
      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/mWYgdOr.png" alt="aws" width="70" height="40"/> </a> 
      <!-- Data warehouses used in a personal or professional capacity -->
      <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/7HRBykW.png" alt="databricks" width="40" height="40"/> </a> 
@@ -52,8 +51,6 @@
      <a href="https://datahubproject.io/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/yMQYc3l.png" alt="datahub" width="40" height="40"/> </a> 
      <a href="https://open-metadata.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Jb9TKg1.png" alt="openmetadata" width="30" height="40"/> </a> 
      <a href="https://www.castordoc.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/wrk5pP5.png" alt="castordoc" width="40" height="40"/> </a>
-
-
 </p>
 
 
