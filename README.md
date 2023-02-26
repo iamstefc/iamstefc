@@ -28,29 +28,26 @@
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
      <!-- Programming languages used in a personal or professional capacity -->
-     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tykt4JU.png" alt="postgresql" width="40" height="40"/> </a> 
      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/ghMZSWx.png" alt="python" width="40" height="40"/> </a> 
-     <a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/xXPHkz0.png" alt="sparksql" width="70" height="40"/> </a> 
      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qgcdK90.png" alt="sqlserver" width="40" height="40"/> </a> 
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/a3sFnth.png" alt="mysql" width="40" height="40"/> </a> 
+     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tykt4JU.png" alt="postgresql" width="40" height="40"/> </a> 
      <!-- Cloud computing services used in a personal or professional capacity -->
      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/mWYgdOr.png" alt="aws" width="70" height="40"/> </a> 
      <!-- Data warehouses used in a personal or professional capacity -->
+     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/oEDffQb.png" alt="snowflake" width="40" height="40"/> </a>
      <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/7HRBykW.png" alt="databricks" width="40" height="40"/> </a> 
-     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/oEDffQb.png" alt="snowflake" width="40" height="40"/> </a> 
      <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/yFpwiDF.png" alt="redshift" width="40" height="40"/> </a> 
      <!-- Data transformation tools used in a personal or professional capacity -->
      <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/cze2nZL.png" alt="dbt" width="40" height="40"/> </a> 
      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/cyImGhX.png" alt="airflow" width="40" height="40"/> </a> 
      <!-- Visualization software used in a personal or professional capacity -->
      <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zNpij8K.png" alt="powerbi" width="40" height="40"/> </a> 
-     <a href="https://www.looker.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/hav6gFn.png" alt="looker" width="30" height="40"/> </a> 
      <a href="https://mode.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/DFtqbVl.png" alt="mode" width="40" height="40"/> </a> 
      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/89KUlGr.png" alt="tableau" width="40" height="40"/> </a> 
+     <a href="https://www.looker.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/hav6gFn.png" alt="looker" width="30" height="40"/> </a> 
      <!-- Data observability applications used in a personal (open source) or professional (third-party vendor) capacity -->
      <a href="https://datahubproject.io/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/yMQYc3l.png" alt="datahub" width="40" height="40"/> </a> 
      <a href="https://open-metadata.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Jb9TKg1.png" alt="openmetadata" width="30" height="40"/> </a> 
-     <a href="https://www.castordoc.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/wrk5pP5.png" alt="castordoc" width="40" height="40"/> </a>
 </p>
 
 
