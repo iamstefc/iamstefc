@@ -2,20 +2,16 @@
      just joking nothing spooky about this README! 
      the iamstefc/iamstefc repo is dedicate solely for the purpose of a quick intro and what I've been working on lately - Enjoy! -->
      
-![Stefano GitHub Banner](https://imgur.com/Suc6BDR.png)  
-<h6 align="center">Connect with me</h6>
+![Stefano GitHub Banner](https://imgur.com/tPfGDfD.png)  
+<h6 align="center">Connect with me (clickable buttons!)</h6>
 <p align="center">
 <a href="https://github.com/iamstefc" target="blank"><img align="center" src="https://imgur.com/mT5BIuQ.png" alt="github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/stefanochiarella/" target="blank"><img align="center" src="https://imgur.com/7VtE43y.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://medium.com/@iamstefc" target="blank"><img align="center" src="https://imgur.com/x5KAgFv.png" alt="medium" height="40" width="40" /></a>
 <a href="https://www.datawithstefano.com/" target="blank"><img align="center" src="https://imgur.com/vY5s8R3.png" alt="notion" height="40" width="40" /></a>   
 </p>
-<img align="right" alt="My Data Space" width="350" src="https://imgur.com/IHwqhCj.png" />
-
-<h3 align="left">Connect with Me</h3>
-<p>Contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see what I'm reading on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my latest work on <a href="https://www.datawithstefano.com/"><i>Notion</i></a></p>
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
+<p align="center">contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see my latest reads on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my portfolio on <a href="https://www.datawithstefano.com/"><i>Notion</i></a></p>
+<p align="center">
      <!-- Programming languages used in a personal or professional capacity -->
      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/ghMZSWx.png" alt="python" width="40" height="40"/> </a> 
      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qgcdK90.png" alt="sqlserver" width="40" height="40"/> </a> 
