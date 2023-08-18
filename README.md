@@ -11,17 +11,6 @@
 <a href="https://www.datawithstefano.com/" target="blank"><img align="center" src="https://imgur.com/vY5s8R3.png" alt="notion" height="40" width="40" /></a>   
 </p>
 <img align="right" alt="My Data Space" width="350" src="https://imgur.com/IHwqhCj.png" />
-<h3 align="left">About Me</h3>
-     
-- :classical_building: Syracuse University '19
-- :man_technologist: I'm currently working on building data infrustructure and dashboards
-     - :desktop_computer: Designing models in dbt
-     - :keyboard: Developing scripts in Python and SQL
-     - :chart_with_upwards_trend: Creating visuals with Power BI and Mode
-     - :cloud: Exploring cloud services with AWS
-- :people_holding_hands: I attended Operational Analytics Community Days and Coalesce '22
-- :man_teacher: I enjoy learning new things every day and sharing my knowledge
-- :star2: Fun fact: I love watching F1/F2/F3 :racing_car:
 
 <h3 align="left">Connect with Me</h3>
 <p>Contact me on <a href="https://www.linkedin.com/in/stefanochiarella/"><i>LinkedIn</i></a>, see what I'm reading on <a href="https://medium.com/@iamstefc"><i>Medium</i></a>, view my latest work on <a href="https://www.datawithstefano.com/"><i>Notion</i></a></p>
